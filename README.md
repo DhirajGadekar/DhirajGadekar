@@ -20,7 +20,7 @@
 <a href="https://twitter.com/dhirajgadekar9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhirajgadekar9" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhiraj-gadekar-9937b7207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhiraj-gadekar-9937b7207/" height="30" width="40" /></a>
 <a href="https://instagram.com/dhiraj.gadekarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhiraj.gadekarr" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dhirajgadekar9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dhirajgadekar9" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCs_DR-djnYmm98BRR1bKXDA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dhirajgadekar9" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dhirajgadekar629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhirajgadekar629" height="30" width="40" /></a>  
 </p>
 
