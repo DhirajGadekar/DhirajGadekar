@@ -22,6 +22,8 @@
 <a href="https://instagram.com/dhiraj.gadekarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhiraj.gadekarr" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCs_DR-djnYmm98BRR1bKXDA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dhirajgadekar9" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dhirajgadekar629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhirajgadekar629" height="30" width="40" /></a>  
+ <a href="https://stackoverflow.com/users/21521583/dhiraj-gadekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dhiraj-gadekar" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
