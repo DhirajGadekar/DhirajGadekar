@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 My Portfolio is here [https://dhirajgadekar.netlify.app/](https://dhirajgadekar.netlify.app/)
+- 👨‍💻 My Portfolio is here : **<a href="https://dhirajgadekar.netlify.app/" target="_blank">Portfolio</a>**
 
 - 💬 Ask me about **C/C++, Java, and Data Structure**
 
-- 📫 How to reach me **dhirajgadekar.work@gmail.com**
+- 📫 How to reach me : **<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHvbJNbblDSWgKTLFxJTWsNkLlfwTghSjrPPcWGHjtNFkstWsxjwfftvsvZKZThfblbcWxD" target="_blank">Email</a>**
 
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
