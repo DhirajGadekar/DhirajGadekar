@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" src="">
+<img align="center" alt="Coding" src="https://media.licdn.com/dms/image/D4D16AQFk54XlUQyLAQ/profile-displaybackgroundimage-shrink_350_1400/0/1680535926164?e=1691625600&v=beta&t=5NiGCGIyMOYxl-XszwDlnfQBMZ142s6khMgSprxwjWo">
 <h1 align="center">Hi 👋, I'm Dhiraj Gadekar</h1>
 <h3 align="center">Building the future, one line of code at a time.</h3>
 
