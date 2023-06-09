@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" src="https://cdn.buymeacoffee.com/uploads/cover_images/2023/04/e5c8177d8992ebb45412b58e0c48cdf9.png@1950w_0e.webp">
+<img align="center" alt="Coding" src="">
 <h1 align="center">Hi 👋, I'm Dhiraj Gadekar</h1>
 <h3 align="center">Building the future, one line of code at a time.</h3>
 
