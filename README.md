@@ -7,11 +7,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Flutter App Development**
 
 - 👨‍💻 My Portfolio is here : **<a href="https://dhirajgadekar.netlify.app/" target="_blank">Portfolio</a>**
 
-- 💬 Ask me about **C/C++, Java, and Data Structure**
+- 💬 Ask me about **C, Java, and Data Structure**
 
 - 📫 How to reach me : **<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHvbJNbblDSWgKTLFxJTWsNkLlfwTghSjrPPcWGHjtNFkstWsxjwfftvsvZKZThfblbcWxD" target="_blank">Email</a>**
 
