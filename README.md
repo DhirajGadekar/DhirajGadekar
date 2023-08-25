@@ -1,5 +1,4 @@
-
-<img align="center" alt="Coding" src="https://media.licdn.com/dms/image/D4D16AQFk54XlUQyLAQ/profile-displaybackgroundimage-shrink_350_1400/0/1680535926164?e=1697068800&v=beta&t=d7y7D3FYC1sFA7J3DqG_hFx5DsFum-jtBa56CbA09bE">
+![Black-Yellow-Geometric-Technolog](https://github.com/DhirajGadekar/DhirajGadekar/assets/111908836/eb3bf807-1edc-4c0e-b7f2-347b82a85dd6)
 <h1 align="center">Hi 👋, I'm Dhiraj Gadekar</h1>
 <h3 align="center">Building the future, one line of code at a time.</h3>
 
