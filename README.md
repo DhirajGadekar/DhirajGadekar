@@ -1,3 +1,4 @@
+![Black-Yellow-Geometric-Technolog](https://github.com/DhirajGadekar/DhirajGadekar/assets/111908836/8d80fd99-caf9-4083-8313-cb92fb9935be)
 <h1 align="center">Hi 👋, I'm Dhiraj Gadekar</h1>
 <h3 align="center">Building the future, one line of code at a time.</h3>
 
