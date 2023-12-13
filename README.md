@@ -10,7 +10,7 @@
 
 - 👨‍💻 My Portfolio is here : **<a href="https://dhirajgadekar.netlify.app/" target="_blank">Portfolio</a>**
 
-- 💬 Ask me about **C, Java, and Data Structure**
+- 💬 Ask me about **Java, Python, C++ and Data Structure**
 
 - 📫 How to reach me : **<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHvbJNbblDSWgKTLFxJTWsNkLlfwTghSjrPPcWGHjtNFkstWsxjwfftvsvZKZThfblbcWxD" target="_blank">Email</a>**
 
