@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, Python, C++ and Data Structure**
 
-- 📫 How to reach me : **<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHvbJNbblDSWgKTLFxJTWsNkLlfwTghSjrPPcWGHjtNFkstWsxjwfftvsvZKZThfblbcWxD" target="_blank">Email</a>**
+- 📫 How to reach me : **<a href="https://mail.google.com/mail/u/3/#inbox?compose=CllgCJTHWNbjZQFnRQlzTNlRVSXcTdxfZVrbtCvTZWPTxTWwgDHTpnckBglPXzNWwkPgMBkrZSq" target="_blank">Email</a>**
 
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
