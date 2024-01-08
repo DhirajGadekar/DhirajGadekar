@@ -1,4 +1,4 @@
-![Black-Yellow-Geometric-Technolog](https://github.com/DhirajGadekar/DhirajGadekar/assets/111908836/06f3b510-629c-495c-be39-6deab27619d5)
+![Black   Yellow Geometric Technology LinkedIn Banner](https://github.com/DhirajGadekar/DhirajGadekar/assets/111908836/6db43c58-ee15-49a3-aaf9-36580141871f)
 <h1 align="center">Hi 👋, I'm Dhiraj Gadekar</h1>
 <h3 align="center">Building the future, one line of code at a time.</h3>
 
