@@ -6,9 +6,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌱 I’m currently learning **Flutter App Development**
+- 🌱 I’m currently learning **React Development**
 
-- 💬 Ask me about **Java, Python, C++ and Data Structure**
+- 💬 Ask me about **Java, Spring boot, Docker, and Data Structure**
 
 - 📫 How to reach me : **<a href="https://mail.google.com/mail/u/3/#inbox?compose=CllgCJTHWNbjZQFnRQlzTNlRVSXcTdxfZVrbtCvTZWPTxTWwgDHTpnckBglPXzNWwkPgMBkrZSq" target="_blank">Email</a>**
 
